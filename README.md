@@ -1,8 +1,13 @@
-__Hi there 👋( ◠‿◠ )__
-### Hi there 👋( ◠‿◠ )
-## Hi there 👋( ◠‿◠ )
-# Hi there 👋( ◠‿◠ )
-# Go there 　( ◠‿◠ )👉 <!-- Hi there 👋( ◠‿◠ ) -->
+Hi there 👋( ◠‿◠ )
+
+Are you reading me? ( ◠‿◠ )
+
+Please read this too! ( ◠‿◠ )👉[( ◠‿◠ )](https://github.com/PocketKie)👈( ◠‿◠ )
+<!--
+Are you reading .md? ( ◠‿◠ )
+
+Please read this too! ( ◠‿◠ )👉(https://github.com/PocketKie/PocketKie/blob/master/README.md?plain=1)👈( ◠‿◠ )
+-->
 
 <!--
 **PocketKie/PocketKie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
